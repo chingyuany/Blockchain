@@ -30,3 +30,6 @@ probability of selecting the right child.
 •	If the sum of the deposits of the nodes voting for a link L exceeds 1/2 of the total deposit,
 L is the supermajority link. (Note: this is different from the 2/3 rule used in real Casper
 FFG.  
+
+To run the program:  
+Python3 Pos.py
